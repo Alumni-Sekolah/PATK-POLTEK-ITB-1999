@@ -1,11 +1,11 @@
 {
-  "name": "Profile Agus Daryanto",
-  "short_name": "Profile Agus Daryanto",
-  "start_url": "https://profile.agusdaryanto.com/",
+  "name": "Alumni PATK Poltek ITB 1999",
+  "short_name": "Alumni PATK Poltek ITB 1999",
+  "start_url": "https://alumnipatkpoltekitb1999.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
-  "description": "Blog yang memberikan informasi Profile Agus Daryanto.",
+  "description": "Blog yang berisi foto Alumni PATK Poltek ITB tahun 1999.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s48/PATK.png",
     "sizes": "48x48",
